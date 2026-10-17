@@ -6,8 +6,7 @@
 
 ### 👨‍💻 About Me
 - **Currently Building:** Decentralized finance protocols & Web3 dApps.
-- **Core Focus:** Smart Contracts, DeFi integrations.
-- **Learning & Researching:** Quantum computing & Web3 & AI.
+- **Learning & Researching:** Quantum computing & Web3 & AI & Smart Contracts.
 - `Solidity`, `React`, `Next.js`, `TypeScript`, `wagmi/viem`.
 ---
 
@@ -18,6 +17,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### **Web3 & Smart contracts**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
